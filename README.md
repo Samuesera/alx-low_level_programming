@@ -1,10 +1,8 @@
-Write a program that prints the number of arguments passed into it.
+Write a function that allocates memory using malloc.
 
-Write a program that prints the number of arguments passed into it.
+Write a function that concatenates two strings.
 
-Write a program that prints all arguments it receives.
+Write a function that allocates memory for an array, using malloc.
 
-Write a program that multiplies two numbers.
-
-Write a program that adds positive numbers.
+Write a function that creates an array of integers.
 
