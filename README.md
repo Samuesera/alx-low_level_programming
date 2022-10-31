@@ -1,8 +1,2 @@
-Write a function that allocates memory using malloc.
-
-Write a function that concatenates two strings.
-
-Write a function that allocates memory for an array, using malloc.
-
-Write a function that creates an array of integers.
-
+tired is an under statement
+file i/o project, wish me luck.
